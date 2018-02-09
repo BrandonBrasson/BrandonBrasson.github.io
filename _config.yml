@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: House of coding 
 header-img: img/home-bg.png
 email: rocksong622@gmail.com
 copyright_name: BrandonBrasson
 description: > # this means to ignore newlines until "baseurl:"
-  
+  //
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BrandonBrasson
