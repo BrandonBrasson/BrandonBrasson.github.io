@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "How i regex explained to my mother"
-date:       2018-03-17 21:25:28 +0000
+date:       2018-03-17 17:25:29 -0400
 permalink:  how_i_regex_explained_to_my_mother
 ---
 
