@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Explain a difficult part about Rails Review"
-date:       2018-05-04 18:26:47 +0000
+date:       2018-05-04 14:26:48 -0400
 permalink:  explain_a_difficult_part_about_rails_review
 ---
 
