@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "Ruby gems "
+date:       2018-06-05 16:38:39 +0000
+permalink:  ruby_gems
+---
+
+
+How i would explain ruby gems to my mother it would be like making a cake you have to adding the layers on.
+you first should test out you cake to make sure everything is runing good.
+This is important to make sure you put all your layers in the right and try to make little to no mistake.
