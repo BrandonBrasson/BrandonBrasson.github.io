@@ -1,11 +1,26 @@
 ---
 layout: post
 title:      "Ruby gems "
-date:       2018-06-05 16:38:39 +0000
+date:       2018-06-05 12:38:40 -0400
 permalink:  ruby_gems
 ---
 
 
 How i would explain ruby gems to my mother it would be like making a cake you have to adding the layers on.
 you first should test out you cake to make sure everything is runing good.
-This is important to make sure you put all your layers in the right and try to make little to no mistake.
+This is important to make sure you put all your layers in the right and try to make little to no mistake.Hello my name is Brandon and this is my first Ruby Gem I’ve been at this for awhile, however, I’m now starting to see the light at the end of the code . 
+
+To start things off these are the steps utilized to make myRuby Gem work: 
+
+1. I use nokogiri to help scrap data from the website.
+2. Then I iteration the data and created a storage for the books. 
+3.Then building a cli interface I used a collection of eleven books and made a mini app. This app displays a list of eleven travel books. This cli does many things it can display a list of books any between one through eleven the cli will show you a list of name, price, url of each book in the collection. 
+Finally, If you get lost the cli will remind you how to get back to the list of books and even says goodbye when you leave the terminal .
+
+Websites genres
+http://books.toscrape.com  is a good website to start with you have a great list of genres to choose from. Also, imdv and amazon are good to however, you can use any website you like. 
+
+I hope you enjoyed reading my blog  
+
+Have a great day
+
