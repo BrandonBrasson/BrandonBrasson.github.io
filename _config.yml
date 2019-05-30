@@ -1,15 +1,14 @@
 # Site settings
+author: Brandon Brasson
 title: House of coding 
 header-img: img/home-bg.png
 email: rocksong622@gmail.com
-copyright_name: BrandonBrasson
+copyright_name: Brandon Brasson
 description: > # this means to ignore newlines until "baseurl:"
-  //
+  // ruby gem
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BrandonBrasson
-learn_profile: BrandonBrasson
-email_username: rocksong622@gmail.com
 
 # Build settings
 markdown: kramdown
